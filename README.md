@@ -1,10 +1,10 @@
 # chatbot-assistant
 === AI Chatbot Assistant ===
-Contributors: (your WordPress.org username)
+Contributors: Jeffrey Correll
 Tags: chatbot, ai, openai, gpt, chatgpt, assistant, support, widget
 Requires at least: 5.0
-Tested up to: 6.5
-Stable tag: 1.2.0
+Tested up to: 6.8.2
+Stable tag: 1.0.0
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
