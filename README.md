@@ -53,13 +53,6 @@ Currently, the icon cannot be changed from the settings panel. This feature may 
 
 The plugin currently uses the `gpt-3.5-turbo` model, which provides a great balance of speed and intelligence.
 
-== Screenshots ==
-
-1.  **The Admin Settings Panel:** A complete view of all the available options for customizing the chatbot.
-2.  **Frontend Chat Bubble:** The clean and simple chat bubble that appears on the website.
-3.  **Open Chat Widget:** The full chat interface when a user clicks on the bubble.
-4.  **Appearance Customization:** Highlighting the color pickers and position settings.
-
 == Changelog ==
 
 = 1.0.0 =
