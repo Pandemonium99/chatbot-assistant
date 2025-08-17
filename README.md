@@ -15,7 +15,7 @@ A user-friendly, customizable chatbot powered by the OpenAI API to engage with y
 
 The **AI Chatbot Assistant** plugin allows you to easily add a smart, conversational chatbot to your WordPress website. Powered by OpenAI's powerful models (like GPT-3.5-Turbo), this chatbot can answer visitor questions, provide support, and enhance user engagement.
 
-With a simple and intuitive settings panel, you can connect your OpenAI account, customize the chatbot's personality and instructions, and adjust its appearance to perfectly match your site's branding—all without writing a single line of code.
+With a simple and intuitive settings panel, you can connect your OpenAI account, customize the chatbot's personality and instructions, and adjust its appearance to perfectly match your site's branding all without writing a single line of code.
 
 **Key Features:**
 
