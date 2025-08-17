@@ -64,7 +64,3 @@ The plugin currently uses the `gpt-3.5-turbo` model, which provides a great bala
 
 = 1.0.0 =
 * Initial release.
-
-
-= 1.2.0 =
-This update adds new customization features, including chatbot position, title color, and response length limits. Your existing settings will be preserved upon upgrade.
