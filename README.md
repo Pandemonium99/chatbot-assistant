@@ -1,4 +1,4 @@
-# chatbot-assistant
+# chatbot-assistant for WordPress
 === AI Chatbot Assistant ===
 Contributors: Jeffrey Correll
 Tags: chatbot, ai, openai, gpt, chatgpt, assistant, support, widget
